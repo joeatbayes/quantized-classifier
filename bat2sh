@@ -1,0 +1,16 @@
+#!/usr/bin/env perl
+#
+# Converts Windows batch script to Linux shell script
+#
+# Invocation:
+#     ./bat2sh script.bat
+#
+print "#!/bin/sh\n";
+while(<>){
+	s/^::/#/gi;
+	s/\bset\b/export/g;
+	s/%([^\/]+)%/`$1`/g;
+	s/^call.*$//g;
+	s/\r//;
+	print;
+}

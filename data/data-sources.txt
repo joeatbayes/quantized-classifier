@@ -1,0 +1,117 @@
+See Source sites for attribution, license and re-use information on 
+this data.  Some of these files will have to be downloaded manually due
+to restrictive licenses.
+
+
+mnist.*.csv
+  http://pjreddie.com/projects/mnist-in-csv/
+  
+
+rottentomatoes.csv - https://github.com/savarin/neural-networks
+
+titanic.csv - https://github.com/savarin/neural-networks
+
+move_metadata.csv - https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset
+
+breast-cancer-wisconsin.data.csv
+  Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science. -
+  https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
+  https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.names
+
+contraceptive Predict use of Contraceptive
+  Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+  https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice
+  https://archive.ics.uci.edu/ml/machine-learning-databases/cmc/cmc.names
+
+diabetes.csv Diabetes pima Indian
+  Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+ https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes
+ https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/ https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.names
+  
+
+Liver disorders
+  Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+  https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/
+  https://archive.ics.uci.edu/ml/machine-learning-databases/liver-disorders/bupa.names
+  
+
+wine.data.uci.csv
+  Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+  https://archive.ics.uci.edu/ml/datasets/Wine
+  https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+  https://dataaspirant.com/2017/01/09/knn-implementation-r-using-caret-package/
+  
+credit.csv
+  
+  http://archive.ics.uci.edu/ml/datasets/Credit+Approval
+  http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.names
+  http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data
+  
+EUR/USD Forex Data
+  http://www.histdata.com/download-free-forex-data/http://www.histdata.com/download-free-forex-data/
+  http://www.histdata.com/download-free-forex-historical-data/?/ascii/1-minute-bar-quotes/eurusd/2016
+  
+  
+ics.uci.edu cars.data
+  http://archive.ics.uci.edu/ml/machine-learning-databases/car/car.names
+  http://archive.ics.uci.edu/ml/machine-learning-databases/car/car.data
+  Adding this data set to test features in quantized
+  classifier to develop integer feature ID from string 
+  value columns automatically.  It is also used in 
+  the following article.    Buying is the class for this 
+  data set.   http://rpubs.com/m3cinc/Benchmarking_20_Machine_Learning_Models_Accuracy_and_Speed where the performanceo of many different classifiers are tested.
+  
+Poker Hands 
+  25,000 rows of poker hand valude used to 
+  predict quality of hand like straight flush
+  http://archive.ics.uci.edu/ml/machine-learning-databases/poker/
+  http://archive.ics.uci.edu/ml/machine-learning-databases/poker/poker-hand.names
+  
+Amazon Book Reviews
+  23 MB of book reviews
+  http://archive.ics.uci.edu/ml/machine-learning-databases/00370/
+  
+  
+Dermatology
+  only 366 rows but a large set of attributes to test. 
+ http://archive.ics.uci.edu/ml/machine-learning-databases/dermatology/ http://archive.ics.uci.edu/ml/machine-learning-databases/dermatology/dermatology.names
+  
+twitterTextEmotion.csv
+  https://www.crowdflower.com/data-for-everyone/
+  https://www.crowdflower.com/wp-content/uploads/2016/07/text_emotion.csv
+
+FullEconomicNews.csv
+  https://www.crowdflower.com/data-for-everyone/
+  https://www.crowdflower.com/wp-content/uploads/2016/03/Full-Economic-News-DFE-839861.csv
+
+twitterAppleSentiment.csv
+  https://www.crowdflower.com/data-for-everyone/
+  https://www.crowdflower.com/wp-content/uploads/2016/03/Apple-Twitter-Sentiment-DFE.csv
+  Added: December 28, 2014 by CrowdFlower | Data Rows: 3969
+
+twitterClaritinOctSideEffects.csv
+  https://www.crowdflower.com/data-for-everyone/
+  https://www.crowdflower.com/wp-content/uploads/2016/03/1384367161_claritin_october_twitter_side_effects-1.csv
+  Added: November 13, 2013 by Dave Oleson | Data Rows: 4900
+
+twitterJudgeProductCompany.csv
+  https://www.crowdflower.com/data-for-everyone/
+  https://www.crowdflower.com/wp-content/uploads/2016/03/judge-1377884607_tweet_product_company.csv
+  Added: August 30, 2013 by Kent Cavender-Bares | Data Rows: 9093
+
+twitterGlobalWarmingSentiment.csv
+  https://www.crowdflower.com/data-for-everyone/
+  https://www.crowdflower.com/wp-content/uploads/2016/03/1377884570_tweet_global_warming.csv
+  Added: August 30, 2013 by Kent Cavender-Bares | Data Rows: 6090
+
+twiterAirlineSentiment.csv
+  https://www.crowdflower.com/data-for-everyone/
+  https://www.crowdflower.com/wp-content/uploads/2016/03/Airline-Sentiment-2-w-AA.csv
+
+News Aggregator
+  https://archive.ics.uci.edu/ml/datasets/News+Aggregator
+  https://archive.ics.uci.edu/ml/machine-learning-databases/00359/
+
+Commerce Reviews 
+  https://archive.ics.uci.edu/ml/datasets/Amazon+Commerce+reviews+set
+  
